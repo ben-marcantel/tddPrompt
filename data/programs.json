@@ -1,0 +1,91 @@
+[{
+    "no_of_seats": 1,
+    "instructor_name": "Wilderman",
+    "start_date": "2018-03-22T07:08:37.875Z",
+    "end_date": "2019-02-18T14:00:46.683Z",
+    "course_category": 23
+}, {
+    "no_of_seats": 4,
+    "instructor_name": "Cummerata",
+    "start_date": "2018-12-03T04:07:28.027Z",
+    "end_date": "2019-08-29T06:12:20.011Z",
+    "course_category": 8
+}, {
+    "no_of_seats": 19,
+    "instructor_name": "Schowalter",
+    "start_date": "2018-09-17T18:54:52.569Z",
+    "end_date": "2019-06-17T17:28:30.244Z",
+    "course_category": 2
+}, {
+    "no_of_seats": 13,
+    "instructor_name": "Kirlin",
+    "start_date": "2018-04-18T05:55:57.587Z",
+    "end_date": "2018-09-17T22:39:23.946Z",
+    "course_category": 29
+}, {
+    "no_of_seats": 19,
+    "instructor_name": "Douglas",
+    "start_date": "2018-01-05T05:49:40.661Z",
+    "end_date": "2018-12-16T01:19:33.312Z",
+    "course_category": 19
+}, {
+    "no_of_seats": 9,
+    "instructor_name": "Cartwright",
+    "start_date": "2018-08-11T09:22:56.155Z",
+    "end_date": "2019-06-18T03:43:46.589Z",
+    "course_category": 13
+}, {
+    "no_of_seats": 16,
+    "instructor_name": "Eichmann",
+    "start_date": "2018-09-02T22:51:49.666Z",
+    "end_date": "2018-11-03T14:02:07.545Z",
+    "course_category": 13
+}, {
+    "no_of_seats": 19,
+    "instructor_name": "Terry",
+    "start_date": "2018-11-08T05:16:27.770Z",
+    "end_date": "2019-08-30T03:47:36.056Z",
+    "course_category": 22
+}, {
+    "no_of_seats": 13,
+    "instructor_name": "Bahringer",
+    "start_date": "2018-06-23T15:24:19.523Z",
+    "end_date": "2019-03-13T14:59:57.460Z",
+    "course_category": 21
+}, {
+    "no_of_seats": 7,
+    "instructor_name": "Stiedemann",
+    "start_date": "2018-03-10T10:06:09.289Z",
+    "end_date": "2019-02-18T08:59:53.218Z",
+    "course_category": 21
+}, {
+    "no_of_seats": 17,
+    "instructor_name": "Tremblay",
+    "start_date": "2018-12-06T08:18:31.815Z",
+    "end_date": "2019-01-25T01:11:49.919Z",
+    "course_category": 22
+}, {
+    "no_of_seats": 20,
+    "instructor_name": "Murphy",
+    "start_date": "2018-06-16T16:45:31.461Z",
+    "end_date": "2019-05-04T17:18:31.371Z",
+    "course_category": 21
+}, {
+    "no_of_seats": 24,
+    "instructor_name": "Kub",
+    "start_date": "2018-05-04T18:29:21.510Z",
+    "end_date": "2019-04-23T13:48:32.100Z",
+    "course_category": 25
+}, {
+    "no_of_seats": 21,
+    "instructor_name": "Breitenberg",
+    "start_date": "2018-10-11T02:56:26.438Z",
+    "end_date": "2018-11-27T13:28:55.662Z",
+    "course_category": 21
+}, {
+    "no_of_seats": 21,
+    "instructor_name": "Kirlin",
+    "start_date": "2018-02-02T13:24:08.604Z",
+    "end_date": "2018-12-18T12:53:34.491Z",
+    "course_category": 19
+}]
